@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         CatWar UwU Версия Утречко
 // @namespace    http://tampermonkey.net/
-// @version      v1.35.0-11.24
-// @description  Визуальное обновление CatWar'а, и не только...
+// @version      v1.35.0.1
+// @description  Визуальное обновление CatWar'а, и не только... и целительские умения!
 // @author       Ibirtem / Затменная ( https://catwar.net/cat1477928 ) + целительская модификация Утречки
 // @copyright    2024, Ibirtem (https://openuserjs.org/users/Ibirtem)
 // @supportURL   https://catwar.net/cat1477928
 // @homepageURL  https://openuserjs.org/scripts/Ibirtem/CatWar_UwU
 // @match        http*://*.catwar.net/*
 // @match        http*://*.catwar.su/*
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/sleepwalkghost/UWU-ver-Utrechko/raw/refs/heads/main/uwu-utrechko.user.js
+// @downloadURL  https://github.com/sleepwalkghost/UWU-ver-Utrechko/raw/refs/heads/main/uwu-utrechko.user.js
 // @license      MIT
 // @iconURL      https://raw.githubusercontent.com/Ibirtem/CatWar/main/images/partly_sunny_rain.png
 // ==/UserScript==
